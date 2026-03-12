@@ -1,1 +1,45 @@
+google-services.json
+scripts/
+sportlink_code_for_codex.txt
+.DS_Store
+
+# Gradle
+.gradle/
+build/
+
+# Local configuration (SDK path etc.)
+local.properties
+
+# Android Studio / IntelliJ
 .idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Kotlin / Java build outputs
+*.class
+*.log
+
+# Android build outputs
+app/build/
+*/build/
+
+# Signing files
+*.jks
+*.keystore
+
+# Generated files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Android Studio navigation editor temp files
+.navigation/
+
+# Google services
+google-services.json
+
+# Gradle wrapper logs
+gradle-app.setting

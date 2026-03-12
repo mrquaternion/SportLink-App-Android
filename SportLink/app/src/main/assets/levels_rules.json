@@ -1,0 +1,140 @@
+{
+    "version": 1,
+    "categories": [
+        {
+            "sport": "soccer",
+            "rules": [
+                { "level": 1, "minPoints": 0 },
+                { "level": 2, "minPoints": 40 },
+                { "level": 3, "minPoints": 80 },
+                { "level": 4, "minPoints": 140 },
+                { "level": 5, "minPoints": 200 },
+                { "level": 6, "minPoints": 300 },
+                { "level": 7, "minPoints": 420 },
+                { "level": 8, "minPoints": 540 },
+                { "level": 9, "minPoints": 680 },
+                { "level": 10, "minPoints": 900 }
+            ]
+        },
+        {
+            "sport": "basketball",
+            "rules": [
+                { "level": 1, "minPoints": 0 },
+                { "level": 2, "minPoints": 35 },
+                { "level": 3, "minPoints": 70 },
+                { "level": 4, "minPoints": 120 },
+                { "level": 5, "minPoints": 170 },
+                { "level": 6, "minPoints": 250 },
+                { "level": 7, "minPoints": 350 },
+                { "level": 8, "minPoints": 460 },
+                { "level": 9, "minPoints": 600 },
+                { "level": 10, "minPoints": 800 }
+            ]
+        },
+        {
+            "sport": "rugby",
+            "rules": [
+                { "level": 1, "minPoints": 0 },
+                { "level": 2, "minPoints": 60 },
+                { "level": 3, "minPoints": 130 },
+                { "level": 4, "minPoints": 200 },
+                { "level": 5, "minPoints": 290 },
+                { "level": 6, "minPoints": 380 },
+                { "level": 7, "minPoints": 470 },
+                { "level": 8, "minPoints": 580 },
+                { "level": 9, "minPoints": 700 },
+                { "level": 10, "minPoints": 850 }
+            ]
+        },
+        {
+            "sport": "football",
+            "rules": [
+                { "level": 1, "minPoints": 0 },
+                { "level": 2, "minPoints": 50 },
+                { "level": 3, "minPoints": 120 },
+                { "level": 4, "minPoints": 180 },
+                { "level": 5, "minPoints": 270 },
+                { "level": 6, "minPoints": 310 },
+                { "level": 7, "minPoints": 450 },
+                { "level": 8, "minPoints": 600 },
+                { "level": 9, "minPoints": 720 },
+                { "level": 10, "minPoints": 850 }
+            ]
+        },
+        {
+            "sport": "baseball",
+            "rules": [
+                { "level": 1, "minPoints": 0 },
+                { "level": 2, "minPoints": 30 },
+                { "level": 3, "minPoints": 60 },
+                { "level": 4, "minPoints": 100 },
+                { "level": 5, "minPoints": 150 },
+                { "level": 6, "minPoints": 225 },
+                { "level": 7, "minPoints": 350 },
+                { "level": 8, "minPoints": 480 },
+                { "level": 9, "minPoints": 620 },
+                { "level": 10, "minPoints": 750 }
+            ]
+        },
+        {
+            "sport": "volleyball",
+            "rules": [
+                { "level": 1, "minPoints": 0 },
+                { "level": 2, "minPoints": 25 },
+                { "level": 3, "minPoints": 65 },
+                { "level": 4, "minPoints": 110 },
+                { "level": 5, "minPoints": 155 },
+                { "level": 6, "minPoints": 200 },
+                { "level": 7, "minPoints": 265 },
+                { "level": 8, "minPoints": 355 },
+                { "level": 9, "minPoints": 485 },
+                { "level": 10, "minPoints": 610 }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "rules": [
+                { "level": 1, "minPoints": 0 },
+                { "level": 2, "minPoints": 30 },
+                { "level": 3, "minPoints": 80 },
+                { "level": 4, "minPoints": 135 },
+                { "level": 5, "minPoints": 190 },
+                { "level": 6, "minPoints": 255 },
+                { "level": 7, "minPoints": 335 },
+                { "level": 8, "minPoints": 450 },
+                { "level": 9, "minPoints": 610 },
+                { "level": 10, "minPoints": 770 }
+            ]
+        },
+        {
+            "sport": "petanque",
+            "rules": [
+                { "level": 1, "minPoints": 0 },
+                { "level": 2, "minPoints": 15 },
+                { "level": 3, "minPoints": 40 },
+                { "level": 4, "minPoints": 70 },
+                { "level": 5, "minPoints": 100 },
+                { "level": 6, "minPoints": 125 },
+                { "level": 7, "minPoints": 170 },
+                { "level": 8, "minPoints": 240 },
+                { "level": 9, "minPoints": 340 },
+                { "level": 10, "minPoints": 420 }
+            ]
+        },
+        {
+            "sport": "pingpong",
+            "rules": [
+                { "level": 1, "minPoints": 0 },
+                { "level": 2, "minPoints": 20 },
+                { "level": 3, "minPoints": 55 },
+                { "level": 4, "minPoints": 95 },
+                { "level": 5, "minPoints": 135 },
+                { "level": 6, "minPoints": 175 },
+                { "level": 7, "minPoints": 230 },
+                { "level": 8, "minPoints": 310 },
+                { "level": 9, "minPoints": 430 },
+                { "level": 10, "minPoints": 530 }
+            ]
+        }
+    ]
+}
